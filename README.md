@@ -38,3 +38,9 @@ should be easy. For more information, take a look at
 If you are using an editor that doesn't support remote interpreters, I'd suggest
 creating a virtualenv and installing the requirements.txt dependencies to get
 autocomplete / code suggestions.
+
+## More reading
+
+https://docs.docker.com has really good tutorials and guides, I found the django
+one specially valuable since it introduces the concept of `Volumes` without diving
+much into it: https://docs.docker.com/compose/django/ 
